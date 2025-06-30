@@ -8,6 +8,7 @@ The [Rubin Science Platform](https://data.lsst.cloud/) Notebook Aspect provides 
 In the menu bar of the Notebook Aspect (above) click on “Tutorials” to see a drop down menu of all the tutorials in the [tutorial-notebooks repository](https://github.com/lsst/tutorial-notebooks/). Select the desired tutorial (the first will always be an introductory-level tutorial). A writeable version will automatically open for execution, and will be saved into the folder /notebooks/tutorials/.
 
 ### Recent data releases:
+* [Data Preview 1 (DP1) website and documentation](https://dp1.lsst.io/)
 * [Data Preview 0 (DP0) website and documentation](https://dp0.lsst.io/)
 
 ### Resources:
@@ -19,4 +20,4 @@ In the menu bar of the Notebook Aspect (above) click on “Tutorials” to see a
 
 
 ---
-*Last Updated: May 2025*
+*Last Updated: June 2025*
