@@ -21,5 +21,7 @@ In the menu bar of the Notebook Aspect (above) click on “Tutorials” to see a
 ### Data policies:
 Only Rubin data rights holders may have an account in the Rubin Science Platform (RSP) and access to Data Preview 1 data products. All scientists and students in the US and Chile, plus named members of international in-kind teams, have Rubin data rights. [Learn more about the Rubin data policy](https://rubinobservatory.org/for-scientists/data-products/data-policy).
 
+Details can be found in the Rubin Data Policy document, linked at the top of the page linked above. Questions are welcome in the Support category of the Rubin Community Forum.
+
 ---
 *Last Updated: August 2025*
