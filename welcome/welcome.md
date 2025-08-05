@@ -18,6 +18,8 @@ In the menu bar of the Notebook Aspect (above) click on “Tutorials” to see a
 * [LSST Science Pipelines documentation](https://pipelines.lsst.io/)
 * [Tutorials github repo](https://github.com/lsst/tutorial-notebooks/)
 
+### Data policies:
+Only Rubin data rights holders may have an account in the Rubin Science Platform (RSP) and access to Data Preview 1 data products. All scientists and students in the US and Chile, plus named members of international in-kind teams, have Rubin data rights. [Learn more about the Rubin data policy](https://rubinobservatory.org/for-scientists/data-products/data-policy).
 
 ---
-*Last Updated: June 2025*
+*Last Updated: August 2025*
