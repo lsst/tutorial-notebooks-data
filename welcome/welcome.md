@@ -23,5 +23,7 @@ Only Rubin data rights holders may have an account in the Rubin Science Platform
 
 Details can be found in the Rubin Data Policy document, linked at the top of the page linked above. Questions are welcome in the Support category of the Rubin Community Forum.
 
+**Citing DP1**: Publications based on the DP1 data products must cite the DP1 paper and use the DOIs for the relevant data products. [Learn more about how to cite Data Preview 1](https://dp1.lsst.io/citedp1.html).
+
 ---
 *Last Updated: August 2025*
