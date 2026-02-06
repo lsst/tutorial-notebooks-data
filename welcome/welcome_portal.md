@@ -1,11 +1,13 @@
 <img src=./logo_for_header.png alt="Rubin logo" width="25%"/>
 
+Help? Resources?
 # Welcome to the Rubin Science Platform Portal Aspect
 
-The [Rubin Science Platform](https://data.lsst.cloud/) Portal Aspect provides you the means to interactively browse, display, and make simple plots based on Legacy Survey of Space and Time (LSST) data products in a web browser.
+The [Rubin Science Platform](https://rsp.lsst.io/) Portal Aspect (see the [User Guide](https://rsp.lsst.io/guides/portal/using-the-portal/index.html)) provides you the means to interactively browse, display, and make simple plots based on Legacy Survey of Space and Time (LSST) data products in a web browser.
 
 ### How to use the Portal
 Click on one of the tabs that are displayed across the top of the Portal window. There are tabs with the following functionalities:
+PUT THIS STUFF IN THE USER GUIDE!
 * **Catalogs**: query catalog data products, either via an interactive GUI, or with ADQL queries
 * **Images**: search for images, including Rubin data as well as images from the IRSA archives
 * **HiPS**: find [HiPS](https://aladin.cds.unistra.fr/hips/) (Hierarchical Progressive Survey) images created from the Rubin deep coadd images
@@ -15,6 +17,8 @@ Click on one of the tabs that are displayed across the top of the Portal window.
 * **Results**: see the catalogs and/or images resulting from your executed queries, and interact with them. The image viewer and interactive plotting tools are based on [Firefly](https://data-int.lsst.cloud/portal/app/onlinehelp/), which is built by [IPAC](http://www.ipac.caltech.edu/).
 
 At the upper left corner of the screen, a "hamburger menu" (with an icon consisting of three horizontal lines) can be clicked to reveal additional tabs that may be opened, and to hide tabs that currently appear.
+
+Link to tutorials (at dp1.lsst.io), rsp.lsst.io
 
 ### Recent data releases available
 * [Data Preview 1 (DP1) website and documentation](https://dp1.lsst.io/)
