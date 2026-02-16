@@ -1,28 +1,19 @@
 <img src=./logo_for_header.png alt="Rubin logo" width="25%"/>
 
-Help? Resources?
-# Welcome to the Rubin Science Platform Portal Aspect
+# Rubin Science Platform Portal Resources
 
-The [Rubin Science Platform](https://rsp.lsst.io/) Portal Aspect (see the [User Guide](https://rsp.lsst.io/guides/portal/using-the-portal/index.html)) provides you the means to interactively browse, display, and make simple plots based on Legacy Survey of Space and Time (LSST) data products in a web browser.
+The [Rubin Science Platform](https://rsp.lsst.io/) Portal Aspect provides you the means to interactively browse, display, and make simple plots based on Legacy Survey of Space and Time (LSST) data products in a web browser.
 
 ### How to use the Portal
-Click on one of the tabs that are displayed across the top of the Portal window. There are tabs with the following functionalities:
-PUT THIS STUFF IN THE USER GUIDE!
-* **Catalogs**: query catalog data products, either via an interactive GUI, or with ADQL queries
-* **Images**: search for images, including Rubin data as well as images from the IRSA archives
-* **HiPS**: find [HiPS](https://aladin.cds.unistra.fr/hips/) (Hierarchical Progressive Survey) images created from the Rubin deep coadd images
-* **Multi-archive TAP**: execute ADQL queries to retrieve catalogs from external (non-Rubin) TAP tables
-* **Upload**: upload your own tables, which can then be joined with Rubin catalogs
-* **Job Monitor**: check the status of your executed queries, see the actual query and information about the results (for completed queries)
-* **Results**: see the catalogs and/or images resulting from your executed queries, and interact with them. The image viewer and interactive plotting tools are based on [Firefly](https://data-int.lsst.cloud/portal/app/onlinehelp/), which is built by [IPAC](http://www.ipac.caltech.edu/).
-
-At the upper left corner of the screen, a "hamburger menu" (with an icon consisting of three horizontal lines) can be clicked to reveal additional tabs that may be opened, and to hide tabs that currently appear.
-
-Link to tutorials (at dp1.lsst.io), rsp.lsst.io
+* [Portal overview](https://rsp.lsst.io/guides/portal/index.html)
+* [Portal User Guide](https://rsp.lsst.io/guides/portal/using-the-portal/index.html)
 
 ### Recent data releases available
 * [Data Preview 1 (DP1) website and documentation](https://dp1.lsst.io/)
+  * [DP1 Portal tutorials](https://dp1.lsst.io/tutorials/portal/index.html)
 * [Data Preview 0 (DP0) website and documentation](https://dp0.lsst.io/)
+  * [DP0.2 Portal tutorials](https://dp0-2.lsst.io/tutorials-examples/index.html#portal-tutorials)
+  * [DP0.3 Portal tutorials](https://dp0-3.lsst.io/tutorials-dp0-3/index.html#portal-tutorials)
 
 ### Resources
 * **Having issues?** Ask at the [Community Forum](https://community.lsst.org/)
@@ -46,4 +37,4 @@ Details can be found in the Rubin Data Policy document, linked at the top of the
 **General:** [Learn more about citing other Rubin Observatory resources](https://rubinobservatory.org/for-scientists/documentation/cite).
 
 ---
-*Last Updated: January 2026*
+*Last Updated: February 2026*
