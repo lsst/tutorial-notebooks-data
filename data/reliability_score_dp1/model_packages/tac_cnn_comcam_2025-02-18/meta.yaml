@@ -1,0 +1,9 @@
+# General information about the model stored in the package,
+# as well as important hyperparameters and settings, pertaining the model.
+
+version: 0.1
+description: CNN real-bogus trained on ComCam + injections.
+
+# The model's hyperparameters and settings.
+input_shape: [51, 51, 3] # The input shape of the model -- [height, width, channels].
+input_scale_factor: [1.0, 1.0, 1.0] # The input scale factor -- one element per input channel.
