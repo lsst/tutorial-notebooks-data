@@ -8,22 +8,23 @@ The [Rubin Science Platform](https://data.lsst.cloud/) Notebook Aspect provides 
 In the menu bar of the Notebook Aspect (above) click on “Tutorials” to see a drop down menu of all the tutorials in the [tutorial-notebooks repository](https://github.com/lsst/tutorial-notebooks/). Select the desired tutorial (the first will always be an introductory-level tutorial). A writeable version will automatically open for execution, and will be saved into the folder /notebooks/tutorials/.
 
 ### Recent data releases
+* [Data Preview 2 (DP2) website and documentation](https://dp2.lsst.io/)
 * [Data Preview 1 (DP1) website and documentation](https://dp1.lsst.io/)
-* [Data Preview 0 (DP0) website and documentation](https://dp0.lsst.io/)
 
 ### Resources
-* **Having issues?** Ask at the [Community Forum](https://community.lsst.org/)
+* **Having issues?** Ask at the [Rubin Community Forum](https://community.lsst.org/)
 * [Rubin Science Platform (RSP) documentation](https://rsp.lsst.io/)
 * [Rubin Observatory website](https://rubinobservatory.org/for-scientists)
 * [LSST Science Pipelines documentation](https://pipelines.lsst.io/)
 * [Tutorials github repo](https://github.com/lsst/tutorial-notebooks/)
 
-### Data policies
-Only Rubin data rights holders may have an account in the Rubin Science Platform (RSP) and access to Data Preview 1 data products. All scientists and students in the US and Chile, plus named members of international in-kind teams, have Rubin data rights. [Learn more about the Rubin data policy](https://rubinobservatory.org/for-scientists/data-products/data-policy).
-
-Details can be found in the Rubin Data Policy document, linked at the top of the page linked above. Questions are welcome in the Support category of the Rubin Community Forum.
+### Data policy
+Only Rubin data rights holders may have an account in the Rubin Science Platform (RSP) and access the Rubin data products. All scientists and students in the US and Chile, plus named members of international in-kind teams, have Rubin data rights. [Learn more about the Rubin data policy](https://rubinobservatory.org/for-scientists/data-products/data-policy).
+Questions about data rights should be posted in the Support category of the Rubin Community Forum.
 
 ### How to cite Rubin Observatory
+
+**Citing Data Preview 2**: Publications based on the DP2 data products must cite the DP2 paper and use the DOIs for the relevant data products. [Learn more about how to cite Data Preview 2](https://dp2.lsst.io/cite/index.html).
 
 **Citing Data Preview 1**: Publications based on the DP1 data products must cite the DP1 paper and use the DOIs for the relevant data products. [Learn more about how to cite Data Preview 1](https://dp1.lsst.io/citedp1.html).
 
@@ -31,5 +32,13 @@ Details can be found in the Rubin Data Policy document, linked at the top of the
 
 **General:** [Learn more about citing other Rubin Observatory resources](https://rubinobservatory.org/for-scientists/documentation/cite).
 
+### Looking for older releases?
+
+* [Data Preview 0 (DP0) website and documentation](https://dp0.lsst.io/)
+  * As of July 2026, the DP0 dataset remains available via the RSP.
+  * However, the DP0 tutorials do not run in the v30 environment; r29.2.0 must be selected when starting a Notebook server.
+  * Find the DP0 tutorial notebooks at [github.com/lsst/tutorial-notebooks/releases/tag/r29.2.0](https://github.com/lsst/tutorial-notebooks/releases/tag/r29.2.0).
+
+
 ---
-*Last Updated: October 2025*
+*Last Updated: July 2026*
